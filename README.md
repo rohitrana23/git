@@ -1,2 +1,1 @@
-# git
-SCM
+This is my first git repository
